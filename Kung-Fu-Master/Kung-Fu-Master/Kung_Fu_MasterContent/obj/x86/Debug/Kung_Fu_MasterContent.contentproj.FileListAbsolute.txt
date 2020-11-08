@@ -1,0 +1,3 @@
+\\Fisd-student1\hs\hhs\181482\Documents\Visual Studio 2015\Projects\Sprint 4\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_MasterContent\obj\x86\Debug\Kung_Fu_MasterContent.contentprojResolveAssemblyReference.cache
+C:\Users\252364\Downloads\Kung-Fu-Master (1)\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_MasterContent\obj\x86\Debug\Kung_Fu_MasterContent.contentprojResolveAssemblyReference.cache
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_MasterContent\obj\x86\Debug\Kung_Fu_MasterContent.contentprojResolveAssemblyReference.cache

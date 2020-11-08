@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>5.720.png</Source>
+      <Name>5.720</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\5.720.xnb</Output>
+      <Time>2019-12-10T11:28:04-06:00</Time>
+    </Item>
+    <Item>
+      <Source>5.720R.png</Source>
+      <Name>5.720R</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\5.720R.xnb</Output>
+      <Time>2019-12-10T11:28:06-06:00</Time>
+    </Item>
+    <Item>
+      <Source>6.720.png</Source>
+      <Name>6.720</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\6.720.xnb</Output>
+      <Time>2019-12-10T11:28:06-06:00</Time>
+    </Item>
+    <Item>
+      <Source>6.720R.png</Source>
+      <Name>6.720R</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\6.720R.xnb</Output>
+      <Time>2019-12-10T11:28:06-06:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy_kick.png</Source>
+      <Name>enemy_kick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\enemy_kick.xnb</Output>
+      <Time>2019-12-12T11:31:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy_kickLeft.png</Source>
+      <Name>enemy_kickLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\enemy_kickLeft.xnb</Output>
+      <Time>2019-12-12T11:32:02-06:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy_standing.png</Source>
+      <Name>enemy_standing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\enemy_standing.xnb</Output>
+      <Time>2019-12-12T11:32:24-06:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy_standingLeft.png</Source>
+      <Name>enemy_standingLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\enemy_standingLeft.xnb</Output>
+      <Time>2019-12-12T11:32:24-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2019-12-18T11:14:41.2683111-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
+      <Time>2019-12-18T11:14:41.2339275-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont3.spritefont</Source>
+      <Name>SpriteFont3</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\SpriteFont3.xnb</Output>
+      <Time>2019-12-18T11:16:48.1768947-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Start screen background.jpg</Source>
+      <Name>Start screen background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\Start screen background.xnb</Output>
+      <Time>2019-12-18T11:17:06.7035762-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont4.spritefont</Source>
+      <Name>SpriteFont4</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\SpriteFont4.xnb</Output>
+      <Time>2019-12-18T11:29:39.9225905-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont5.spritefont</Source>
+      <Name>SpriteFont5</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\SpriteFont5.xnb</Output>
+      <Time>2019-12-18T11:29:39.8886197-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Bitmap1.bmp</Source>
+      <Name>Bitmap1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\Bitmap1.xnb</Output>
+      <Time>2019-12-18T11:30:20.4174915-06:00</Time>
+    </Item>
+    <Item>
+      <Source>attack.wav</Source>
+      <Name>attack</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\attack.xnb</Output>
+      <Time>2019-12-18T11:39:55.0047959-06:00</Time>
+    </Item>
+    <Item>
+      <Source>enemyDeath.wav</Source>
+      <Name>enemyDeath</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\enemyDeath.xnb</Output>
+      <Time>2019-12-18T11:40:02.3788563-06:00</Time>
+    </Item>
+    <Item>
+      <Source>playerDeath.wav</Source>
+      <Name>playerDeath</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\playerDeath.xnb</Output>
+      <Time>2019-12-18T11:40:06.2260133-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{A72E5135-F24A-4348-8A12-E4F18F2D3967}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_MasterContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-06-27T10:19:46.5397452-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

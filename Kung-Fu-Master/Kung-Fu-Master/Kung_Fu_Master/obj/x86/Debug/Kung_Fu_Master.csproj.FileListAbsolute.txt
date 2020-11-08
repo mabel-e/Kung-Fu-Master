@@ -1,0 +1,78 @@
+\\Fisd-student1\hs\hhs\181482\Documents\Visual Studio 2015\Projects\Sprint 4\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\5.720.xnb
+\\Fisd-student1\hs\hhs\181482\Documents\Visual Studio 2015\Projects\Sprint 4\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\5.720R.xnb
+\\Fisd-student1\hs\hhs\181482\Documents\Visual Studio 2015\Projects\Sprint 4\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\6.720.xnb
+\\Fisd-student1\hs\hhs\181482\Documents\Visual Studio 2015\Projects\Sprint 4\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\6.720R.xnb
+\\Fisd-student1\hs\hhs\181482\Documents\Visual Studio 2015\Projects\Sprint 4\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Kung_Fu_Master.exe
+\\Fisd-student1\hs\hhs\181482\Documents\Visual Studio 2015\Projects\Sprint 4\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Kung_Fu_Master.pdb
+\\Fisd-student1\hs\hhs\181482\Documents\Visual Studio 2015\Projects\Sprint 4\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.dll
+\\Fisd-student1\hs\hhs\181482\Documents\Visual Studio 2015\Projects\Sprint 4\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+\\Fisd-student1\hs\hhs\181482\Documents\Visual Studio 2015\Projects\Sprint 4\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+\\Fisd-student1\hs\hhs\181482\Documents\Visual Studio 2015\Projects\Sprint 4\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+\\Fisd-student1\hs\hhs\181482\Documents\Visual Studio 2015\Projects\Sprint 4\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+\\Fisd-student1\hs\hhs\181482\Documents\Visual Studio 2015\Projects\Sprint 4\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.xml
+\\Fisd-student1\hs\hhs\181482\Documents\Visual Studio 2015\Projects\Sprint 4\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+\\Fisd-student1\hs\hhs\181482\Documents\Visual Studio 2015\Projects\Sprint 4\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+\\Fisd-student1\hs\hhs\181482\Documents\Visual Studio 2015\Projects\Sprint 4\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+\\Fisd-student1\hs\hhs\181482\Documents\Visual Studio 2015\Projects\Sprint 4\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+\\Fisd-student1\hs\hhs\181482\Documents\Visual Studio 2015\Projects\Sprint 4\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\obj\x86\Debug\Kung_Fu_Master.csprojResolveAssemblyReference.cache
+\\Fisd-student1\hs\hhs\181482\Documents\Visual Studio 2015\Projects\Sprint 4\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\Fisd-student1\hs\hhs\181482\Documents\Visual Studio 2015\Projects\Sprint 4\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\obj\x86\Debug\Kung_Fu_Master.exe
+\\Fisd-student1\hs\hhs\181482\Documents\Visual Studio 2015\Projects\Sprint 4\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\obj\x86\Debug\Kung_Fu_Master.pdb
+C:\Users\252364\Downloads\Kung-Fu-Master (1)\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\5.720.xnb
+C:\Users\252364\Downloads\Kung-Fu-Master (1)\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\5.720R.xnb
+C:\Users\252364\Downloads\Kung-Fu-Master (1)\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\6.720.xnb
+C:\Users\252364\Downloads\Kung-Fu-Master (1)\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\6.720R.xnb
+C:\Users\252364\Downloads\Kung-Fu-Master (1)\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Kung_Fu_Master.exe
+C:\Users\252364\Downloads\Kung-Fu-Master (1)\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Kung_Fu_Master.pdb
+C:\Users\252364\Downloads\Kung-Fu-Master (1)\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\252364\Downloads\Kung-Fu-Master (1)\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\252364\Downloads\Kung-Fu-Master (1)\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\252364\Downloads\Kung-Fu-Master (1)\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\252364\Downloads\Kung-Fu-Master (1)\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\252364\Downloads\Kung-Fu-Master (1)\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\252364\Downloads\Kung-Fu-Master (1)\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\252364\Downloads\Kung-Fu-Master (1)\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\252364\Downloads\Kung-Fu-Master (1)\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\252364\Downloads\Kung-Fu-Master (1)\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\252364\Downloads\Kung-Fu-Master (1)\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\obj\x86\Debug\Kung_Fu_Master.csprojResolveAssemblyReference.cache
+C:\Users\252364\Downloads\Kung-Fu-Master (1)\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\252364\Downloads\Kung-Fu-Master (1)\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\obj\x86\Debug\Kung_Fu_Master.exe
+C:\Users\252364\Downloads\Kung-Fu-Master (1)\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\obj\x86\Debug\Kung_Fu_Master.pdb
+C:\Users\252364\Downloads\Kung-Fu-Master (1)\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\enemy_kick.xnb
+C:\Users\252364\Downloads\Kung-Fu-Master (1)\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\enemy_kickLeft.xnb
+C:\Users\252364\Downloads\Kung-Fu-Master (1)\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\enemy_standing.xnb
+C:\Users\252364\Downloads\Kung-Fu-Master (1)\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\enemy_standingLeft.xnb
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\5.720.xnb
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\5.720R.xnb
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\6.720.xnb
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\6.720R.xnb
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\enemy_kick.xnb
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\enemy_kickLeft.xnb
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\enemy_standing.xnb
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\enemy_standingLeft.xnb
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Kung_Fu_Master.exe
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Kung_Fu_Master.pdb
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\obj\x86\Debug\Kung_Fu_Master.csprojResolveAssemblyReference.cache
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\obj\x86\Debug\Kung_Fu_Master.exe
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\obj\x86\Debug\Kung_Fu_Master.pdb
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\SpriteFont3.xnb
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\Start screen background.xnb
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\SpriteFont4.xnb
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\SpriteFont5.xnb
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\Bitmap1.xnb
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\attack.xnb
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\enemyDeath.xnb
+C:\Users\192319\Desktop\Kung Fu Matsers Final Game\Kung_Fu_master_working_enemies\Kung-Fu-Master\Kung-Fu-Master\Kung_Fu_Master\bin\x86\Debug\Content\playerDeath.xnb

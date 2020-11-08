@@ -1,0 +1,18 @@
+Content\5.720.xnb
+Content\5.720R.xnb
+Content\6.720.xnb
+Content\6.720R.xnb
+Content\enemy_kick.xnb
+Content\enemy_kickLeft.xnb
+Content\enemy_standing.xnb
+Content\enemy_standingLeft.xnb
+Content\SpriteFont1.xnb
+Content\SpriteFont2.xnb
+Content\SpriteFont3.xnb
+Content\Start screen background.xnb
+Content\SpriteFont4.xnb
+Content\SpriteFont5.xnb
+Content\Bitmap1.xnb
+Content\attack.xnb
+Content\enemyDeath.xnb
+Content\playerDeath.xnb

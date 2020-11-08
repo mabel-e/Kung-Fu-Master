@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kung_Fu_Master", "Kung-Fu-Master\Kung_Fu_Master\Kung_Fu_Master.csproj", "{B676B223-7420-4696-A0C8-1DDDA1B37AFB}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Kung_Fu_MasterContent", "Kung-Fu-Master\Kung_Fu_MasterContent\Kung_Fu_MasterContent.contentproj", "{A72E5135-F24A-4348-8A12-E4F18F2D3967}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B676B223-7420-4696-A0C8-1DDDA1B37AFB}.Debug|x86.ActiveCfg = Debug|x86
+		{B676B223-7420-4696-A0C8-1DDDA1B37AFB}.Debug|x86.Build.0 = Debug|x86
+		{B676B223-7420-4696-A0C8-1DDDA1B37AFB}.Release|x86.ActiveCfg = Release|x86
+		{B676B223-7420-4696-A0C8-1DDDA1B37AFB}.Release|x86.Build.0 = Release|x86
+		{A72E5135-F24A-4348-8A12-E4F18F2D3967}.Debug|x86.ActiveCfg = Debug|x86
+		{A72E5135-F24A-4348-8A12-E4F18F2D3967}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
